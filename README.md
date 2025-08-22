@@ -1,4 +1,4 @@
-# H-SBP# H-SBP
+# H-SBP#
 
 echo "# H-SBP" >> README.md\\
 git init\\
