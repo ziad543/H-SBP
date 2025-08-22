@@ -5,7 +5,6 @@ git init\\
 git add README.md\\
 git commit -m "first commit"\\
 git branch -M main\\
-git remote add origin https://github.com/abdalla-agamy/H-SBP.git\\
 git push -u origin main\\
 
 Put the summarized commands here for easy copy/paste:\\
